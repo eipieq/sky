@@ -153,7 +153,10 @@
     font-weight: 400;
     line-height: normal;
     font-stretch: normal;
-    margin:100px;
+    margin-left:100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-decoration: none;
     justify-content: center;
 
