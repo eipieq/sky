@@ -239,11 +239,12 @@ footer {
 }
 
 .footer-container {
-  max-width: 960px;
-  margin: 0 auto;
+  max-width: auto;
+  margin: 100px;
 }
 
 .footer-container p {
   color: #333333;
+  font-family: 'samsung';
   font-size: 14px;
 }
