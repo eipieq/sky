@@ -4,7 +4,7 @@
     font-family: 'Apple Garamond';
     font-style: normal;
     font-weight: normal;
-    src: url('fonts/AppleGaramond.woff') format('woff');
+    src: url('AppleGaramond.woff') format('woff');
   }  
 
   @font-face {
