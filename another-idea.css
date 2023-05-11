@@ -5,42 +5,7 @@
     font-style: normal;
     font-weight: normal;
     src: url('fonts/AppleGaramond.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Apple Garamond Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/AppleGaramond-Italic.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Apple Garamond Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/AppleGaramond-Bold.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Apple Garamond Bold Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/AppleGaramond-BoldItalic.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Apple Garamond Light';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/AppleGaramond-Light.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Apple Garamond Light Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: url('fonts/AppleGaramond-LightItalic.woff') format('woff');
-  }
+  }  
 
   @font-face {
     font-family: 'Samsung';
