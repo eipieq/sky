@@ -193,9 +193,9 @@
   @media only screen and (max-width: 768px) {
     .homepage-text {
       font-size: 24px;
-      /*margin-top: 100px;
+      margin-top: 100px;
       margin-right: 20px;
-      margin-left: 20px;*/
+      margin-left: 20px;
     }
     .homepage-text04 {
       color: #000000;
