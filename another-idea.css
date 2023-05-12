@@ -187,6 +187,16 @@
     text-decoration: none;
     font-size: 18px;
   }
+  .english-text{
+    margin-bottom: 200px;
+  }
+  .my-image1 {
+    max-width: calc(100% - 200px);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+  }  
   
   @media only screen and (max-width: 768px) {
     .homepage-text {
